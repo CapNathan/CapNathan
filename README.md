@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center"> Hi there, I`m Nathan </h1> 👋
 🌱 I’m currently learning HTML
 <!--
 **CapNathan/CapNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
